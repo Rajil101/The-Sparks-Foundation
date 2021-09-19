@@ -13,3 +13,8 @@ TASK 2: In these task we carried out prediction using Unsupervised ML-
 
                           •Predict optimum number of clusters ans represent it visually.
 Data Set of task 2 - https://bit.ly/3kXTdox
+
+
+TASK 3: In these task we carried out the exploratory Data Analysis for Retail - 
+                          •Find out business problem and profit making analysis.
+Data Set of task 3 - https://bit.ly/3i4rbWl
