@@ -20,7 +20,13 @@ TASK 3: In these task we carried out the exploratory Data Analysis for Retail -
                           •Find out business problem and profit making analysis.
 Data Set of task 3 - https://bit.ly/3i4rbWl
 
-TASK 4: In these task er carried out the exploratory Data Analysis for Terrorism - 
+TASK 4: In these task we carried out the exploratory Data Analysis for Terrorism - 
 
                           •Find out hot zones of terrorism,security issues & insights deriving EDA.
 Data Set of task 4 - https://bit.ly/2TK5Xn5
+
+TASK 5: In these task we carried out the exploratory Data Analysis for Sports - 
+
+                          •Find out most successfull teams, player and factors contributing win or loss of a team.
+                          •Suggest teams or players a company should endorse for its product.
+Data Set of task 5 - https://bit.ly/34SRn3b
