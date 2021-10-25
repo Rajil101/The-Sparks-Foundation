@@ -8,6 +8,10 @@ TASK 1: In these task we carried out prediction using Supervised ML -
                           •Predicted score if a student studies for 9.25 hours per day.
 Data Set of task 1 - http://Bit.ly/w-data
 
+[![Task-1 Youtube Video](doc/task1.gif)](https://www.youtube.com/watch?v=https://youtu.be/Rqkc4WnXFgg)
+
+
+
 
 TASK 2: In these task we carried out prediction using Unsupervised ML-
 
